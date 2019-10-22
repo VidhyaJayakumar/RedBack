@@ -141,9 +141,9 @@
           </div> <a href="#" class="about-btn-1">Start Now! <i class="fa fa-arrow-right" aria-hidden="true"></i></a> <a href="#" class="about-btn-2">Get Free <i class="fa fa-arrow-right" aria-hidden="true"></i></a> </div>
         <!--ABOUT US RIGHT-->
         <div class="col-md-6 col-sm-12 col-xs-12 n-about-right">
-          <div class="col-md-6 col-sm-6 col-xs-12 n-about-1 n-about-all"><a href="#"><span class="move">Abou Us</span></a> </div>
-          <div class="col-md-6 col-sm-6 col-xs-12 n-about-2 n-about-all"><a href="#"><span class="move">Services</span></a> </div>
-          <div class="col-md-12 col-sm-12 col-xs-12 n-about-3 n-about-all"><a href="#"><span class="move">Contact Us</span></a> </div>
+          <div class="col-md-6 col-sm-6 col-xs-12 n-about-1 n-about-all"><a href="#about"><span class="move">Abou Us</span></a> </div>
+          <div class="col-md-6 col-sm-6 col-xs-12 n-about-2 n-about-all"><a href="#services"><span class="move">Services</span></a> </div>
+          <div class="col-md-12 col-sm-12 col-xs-12 n-about-3 n-about-all"><a href="#contact-1"><span class="move">Contact Us</span></a> </div>
         </div>
       </div>
     </div>
@@ -285,7 +285,7 @@
     </div>
   </section>
   <!-- SECTION: SERVICE REQUEST -->
-  <section class="c-all h-quote">
+  <section class="c-all h-quote" id="FAQ">
     <div class="container">
       <div class="col-md-6 col-sm-12 col-xs-12">
         <div class="all-title quote-title qu-new">
@@ -895,7 +895,7 @@
               <div class="t2-team-memb">
                 <div class="t2-team-img"> <img src="img/team/3.jpg" alt="" /> </div>
                 <div class="t2-team-detail profile">
-                  <h5>Teeka</h5>
+                  <h5>Gayathri</h5>
                   <p><span class="n-team-memb"></span> <span class="n-team-memb"> Developer</span> </p>
                   <p>undergraduate applicants are admitted on a need-blind basis</p>
                   <ul>
@@ -912,7 +912,7 @@
               <div class="t2-team-memb">
                 <div class="t2-team-img"> <img src="img/team/6.jpg" alt="" /> </div>
                 <div class="t2-team-detail profile">
-                  <h5>Ram</h5>
+                  <h5>Logeshwari</h5>
                   <p><span class="n-team-memb"></span> <span class="n-team-memb"> UI/UX Designer</span> </p>
                   <p>undergraduate applicants are admitted on a need-blind basis</p>
                   <ul>
@@ -929,7 +929,7 @@
               <div class="t2-team-memb">
                 <div class="t2-team-img"> <img src="img/team/8.jpg" alt="" /> </div>
                 <div class="t2-team-detail profile">
-                  <h5>Sneha</h5>
+                  <h5>Samuel</h5>
                   <p><span class="n-team-memb"></span> <span class="n-team-memb"> Graphic's Designer</span> </p>
                   <p>undergraduate applicants are admitted on a need-blind basis</p>
                   <ul>
@@ -946,7 +946,7 @@
               <div class="t2-team-memb">
                 <div class="t2-team-img"> <img src="img/team/4.jpg" alt="" /> </div>
                 <div class="t2-team-detail profile">
-                  <h5>Vijay</h5>
+                  <h5>Iqbal</h5>
                   <p><span class="n-team-memb"></span> <span class="n-team-memb"> Android Developer</span> </p>
                   <p>undergraduate applicants are admitted on a need-blind basis</p>
                   <ul>
@@ -1062,19 +1062,19 @@
                     <h4>Support &amp; Help</h4>
                     <ul data-cloneable="">
                       <li> <a href="#">Advertise with us</a> </li>
-                      <li> <a href="#">About Us</a> </li>
-                      <li> <a href="#">FAQ</a> </li>
+                      <li> <a href="#about">About Us</a> </li>
+                      <li> <a href="#FAQ">FAQ</a> </li>
                       <li> <a href="#">Feedbacks </a> </li>
                     </ul>
                   </div>
                   <div class="col-sm-4 col-md-2">
                     <h4>Quick Access</h4>
                     <ul>
-                      <li> <a href="#">About Us</a> </li>
+                      <li> <a href="#about">About Us</a> </li>
                       <li> <a href="#">Use Cases</a> </li>
                       <li> <a href="#">Branding Services</a> </li>
-                      <li> <a href="#">Blog</a> </li>
-                      <li> <a href="#">Contact Us</a> </li>
+                      <li> <a href="#blog">Blog</a> </li>
+                      <li> <a href="#contact-1">Contact Us</a> </li>
                     </ul>
                   </div>
                   <div class="col-sm-8 col-md-3">
@@ -1095,7 +1095,7 @@
                   <div class="col-sm-4 col-md-2">
                     <h4>Our Groups</h4>
                     <ul>
-                      <li> <a href="#">Redbackstudios</a> </li>
+                      <li> <a href="#about">Redbackstudios</a> </li>
                       <li> <a href="#">Digital Marketing Venture</a> </li>
                       <li> <a href="#">SEO Search</a> </li>
                       <li> <a href="#">Velloreads</a> </li>
